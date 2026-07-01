@@ -52,14 +52,12 @@
 
 | Project | Description | Tech Stack |
 |---|---|---|
-| **[Project Name](https://github.com/YOUR_USERNAME/project-repo)** | One-line summary of what it does and its impact (e.g. "Predicts customer churn with 87% accuracy") | Python, scikit-learn, Flask |
-| **[Project Name](https://github.com/YOUR_USERNAME/project-repo)** | One-line summary of what it does and its impact | Node.js, PostgreSQL, Docker |
-| **[Project Name](https://github.com/YOUR_USERNAME/project-repo)** | One-line summary of what it does and its impact | Pandas, Power BI |
-
-> Replace with your 3–6 strongest repositories. Prioritize projects with clean READMEs, clear results, and relevant tech.
-
----
-
+| **[Restaurant_system](https://github.com/solverdepro/Restaurant_system)** | [Add a one-line summary — e.g. "Restaurant ordering/management system"] | Python |
+| **[django-authentication-system](https://github.com/solverdepro/django-authentication-system)** | Authentication system built with Django ⭐ | Python, Django |
+| **[TALENT](https://github.com/solverdepro/TALENT)** | [Add a one-line summary of what this project does] | HTML |
+| **[studentAttendance](https://github.com/solverdepro/studentAttendance)** | [Add a one-line summary — e.g. "Web app for tracking student attendance"] | HTML |
+| **[ECCOMERCE-PROJECT](https://github.com/solverdepro/ECCOMERCE-PROJECT)** | [Add a one-line summary — e.g. "E-commerce storefront with cart and checkout flow"] | JavaScript |
+| **[To-do-list-application](https://github.com/solverdepro/To-do-list-application)** | [Add a one-line summary of what this app does] | Python |
 ### 💼 Experience
 
 **[Job Title]** — [Company Name] · [Start Date] – [End Date / Present]
