@@ -73,14 +73,11 @@
   <img src="https://github-readme-stats.vercel.app/api?username=solverdepro&show_icons=true&theme=default" alt="GitHub Stats" height="170"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=solverdepro" alt="GitHub Streak" height="170"/>
 </p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=solverdepro&layout=compact" alt="Top Languages"/>
-</p>
 ---
 
 ### 🎓 Education & Certifications
 
-- **Bachelor Of Science In Software Engineering**, UNIVERSITY OF DODOMA(UDOM) — form 2022 to 2026
+- **Bachelor Of Science In Software Engineering**, UNIVERSITY OF DODOMA(UDOM) — from 2022 to 2026
 - **[Certification]**, Buni Innovation Hub - COSTECH — 2024
 
 ---
