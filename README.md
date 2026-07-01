@@ -6,37 +6,40 @@
 </p>
 
 <p align="center">
-  <a href="mailto:">📧 mpeletaprosper@gmail.com</a> ·
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN">💼 LinkedIn</a>
+  <a href="mailto:"> mpeletaprosper@gmail.com</a> ·
+  <a href="https://linkedin.com/in/YOUR_LINKEDIN"> LinkedIn</a>
 </p>
 
 ---
 
-### 👨‍💻 About Me
+### About Me
 
-- 🎓 Software Engineer & Data Scientist, based in Tanzania 🇹🇿
-- 💡 Passionate about building practical, efficient, and data-driven solutions
-- 🔭 Currently working on: **[project/role name]**
-- 🌱 Currently learning: **[e.g. MLOps, cloud architecture, LLMs]**
-- 🤝 Open to: **[freelance / full-time / collaboration]** opportunities
-- 📫 Reach me at: **YOUR_EMAIL@example.com**
+-  Software Engineer & Data Scientist, based in Tanzania 🇹🇿
+-  Passionate about building practical, efficient, and data-driven solutions
+-  Currently working on: **CASFETA MANAGEMENT SYSTEM**
+-  Currently learning: **[LLMs and Machine Learning]**
+-  Open to: **[freelance / full-time / collaboration]** opportunities
+-  Reach me at: **mpeletaprosper@gmail.com**
 
 ---
 
-### 🛠️ Skills & Tools
+### Skills & Tools
 
 **Languages**
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
+![Django](https://img.shields.io/badge/-Django-092E20?style=flat&logo=django&logoColor=white)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
-![Java](https://img.shields.io/badge/-Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
+![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?style=flat&logo=vue.js&logoColor=white)
 
 **Data Science & ML**
 ![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat&logo=numpy&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/-scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)
+![Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black)
+![Tableau](https://img.shields.io/badge/-Tableau-E97627?style=flat&logo=tableau&logoColor=white)
 
 **Software Engineering**
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
@@ -44,11 +47,8 @@
 ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=black)
 
-> 💡 *Tip: Edit these badges to match your actual stack — remove what you don't use, add what you do (e.g. R, Django, Flask, PyTorch, Power BI, Tableau).*
 
----
-
-### 🚀 Featured Projects
+### Featured Projects
 
 | Project | Description | Tech Stack |
 |---|---|---|
