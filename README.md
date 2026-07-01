@@ -82,8 +82,8 @@
 
 ### 🎓 Education & Certifications
 
-- **[Degree]**, [University Name] — [Year]
-- **[Certification]**, [Issuing Organization] — [Year]
+- **Bachelor Of Science In Software Engineering**, UNIVERSITY OF DODOMA(UDOM) — 2022 To 2026
+- **[Certification]**, Buni Innovation Hub - COSTECH — 2024
 
 ---
 
