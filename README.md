@@ -7,9 +7,7 @@
 
 <p align="center">
   <a href="mailto:">📧 mpeletaprosper@gmail.com</a> ·
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN">💼 LinkedIn</a> ·
-  <a href="https://YOUR_PORTFOLIO.com">🌐 Portfolio</a> ·
-  <a href="https://twitter.com/YOUR_HANDLE">🐦 Twitter/X</a>
+  <a href="https://linkedin.com/in/YOUR_LINKEDIN">💼 LinkedIn</a>
 </p>
 
 ---
