@@ -59,13 +59,11 @@
 
 ### 💼 Experience
 
-**[Job Title]** — [Company Name] · [Start Date] – [End Date / Present]
-- [Key responsibility or achievement, quantified where possible]
-- [Key responsibility or achievement]
-
-**[Job Title]** — [Company Name] · [Start Date] – [End Date]
-- [Key responsibility or achievement]
-- [Key responsibility or achievement]
+**Software Engineering Intern / Trainee** — Buni Hub, COSTECH · [august 2024] – [October 2024]
+- Practiced end-to-end software development and coding, building functional applications from concept to deployment
+- Applied Design Thinking methodology to identify user problems and prototype practical, user-centered solutions
+- Used Lean Startup principles (build–measure–learn) to validate ideas quickly and iterate on MVPs
+- Collaborated in cross-functional teams, contributing to both technical execution and leadership of shared tasks(on our project named as TALENT PROMOTERS)
 
 ---
 
